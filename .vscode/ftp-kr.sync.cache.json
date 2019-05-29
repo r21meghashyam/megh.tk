@@ -1,0 +1,54 @@
+{
+  "ftp://185.28.20.231:21@u843495449": {
+    ".DS_Store": {
+      "type": "-",
+      "size": 6148,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".htaccess": {
+      "type": "-",
+      "size": 71,
+      "lmtime": 0,
+      "modified": false
+    },
+    "404.php": {
+      "type": "-",
+      "size": 1749,
+      "lmtime": 0,
+      "modified": false
+    },
+    "apps": {},
+    "css": {},
+    "data": {},
+    "img": {},
+    "index.php": {
+      "type": "-",
+      "size": 6352,
+      "lmtime": 0,
+      "modified": false
+    },
+    "js": {},
+    "php": {},
+    "public_html": {
+      "public_html": {
+        "index.php": {
+          "type": "-",
+          "size": 7840,
+          "lmtime": 1523743813473,
+          "modified": false
+        }
+      }
+    },
+    "save-message.php": {
+      "type": "-",
+      "size": 564,
+      "lmtime": 0,
+      "modified": false
+    },
+    "scripts": {},
+    "temp": {},
+    "th": {}
+  },
+  "$version": 1
+}
